@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleRecyclerDemo</string>
+
+    <string name="text_loading">正在加载...</string>
+    <string name="text_no_search_result">没有搜索结果！</string>
+    <string name="text_loading_failure">加载失败！</string>
+</resources>
